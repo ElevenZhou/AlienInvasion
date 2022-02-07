@@ -55,6 +55,11 @@ table {
   width:320px;
 }
 
+/* Center the words */
+.box {             
+   text-align:center;
+}
+
 /* Give canvas a background */
 canvas {
   background-color:black;
